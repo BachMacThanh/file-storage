@@ -1,5 +1,5 @@
 {
-    "1": {
+    1: {
         "name": "Garry's Mod",
         "download": "https://app.vagrantup.com/TinCowBoy/boxes/GameFile/versions/0.0.1/providers/garrymod.box"
     }
