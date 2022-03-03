@@ -2,6 +2,7 @@
     "1": {
         "name": "Garry's Mod",
         "key": "garrymod",
-        "download": "https://app.vagrantup.com/TinCowBoy/boxes/GameFile/versions/0.0.1/providers/garrymod.box"
+        "download": "https://app.vagrantup.com/TinCowBoy/boxes/GameFile/versions/0.0.1/providers/garrymod.box",
+        "size": "2.27 GB"
     }
 }
