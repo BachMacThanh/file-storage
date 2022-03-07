@@ -4,11 +4,5 @@
         "key": "garrymod",
         "download": "https://app.vagrantup.com/TinCowBoy/boxes/GameFile/versions/0.0.1/providers/garrymod.box",
         "size": "2.27 GB"
-    },
-    "2": {
-        "name": "Dead Cells",
-        "key": "deadcells",
-        "download": "https://app.vagrantup.com/TinCowBoy/boxes/GameFile/versions/0.0.1/providers/deadcells.box",
-        "size": "1.05 GB"
     }
 }
